@@ -1,5 +1,5 @@
 # 🥕 Hakkımda
-17 yaşında bir Türk genciyim. Sosyal medyada Carrot olarak bilinirim.<br>Kendimi 2 yıldır adadığım bu serüvende bir çok tecrübe sahibi oldum. <br>Şu an aktif olarak Web projeleri ile uğraşmaktayım. 
+18 yaşında bir Türk genciyim. Sosyal medyada Carrot olarak bilinirim.<br>Kendimi 2 yıldır adadığım bu serüvende bir çok tecrübe sahibi oldum. <br>Şu an aktif olarak Web projeleri ile uğraşmaktayım. 
 
 
 ## 😎 Sosyal Mecralar
